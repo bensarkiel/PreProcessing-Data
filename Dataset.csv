@@ -1,0 +1,11 @@
+Kota,Jarak,Ongkos,Purchased
+Secang,10,10000,No
+Grabak,11,15000,Yes
+Muntilan,12,20000,No
+Grabak,10,17000,No
+Muntilan,11,,Yes
+Secang,10,12000,Yes
+Grabak,,18000,No
+Secang,12,14000,Yes
+Muntilan,12,24000,No
+Secang,10,13000,Yes
